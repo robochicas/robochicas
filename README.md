@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá, somos as RoboChicas.
 
-<!--
-**robochicas/robochicas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Clube de robótica do Instituto de Ciência, Tecnologia e Inovação (ICTI) da Universidade Federal da Bahia (UFBA), composto apenas por mulheres, com o objetivo de promover a capacitação e permanência de mulheres nas áreas de Ciência, Tecnologia e Engenharia (CT&E). 
 
-Here are some ideas to get you started:
+<div>
+   <a href="https://github.com/robochicas">
+   <img  height="120em" src="https://github-readme-stats.vercel.app/api?username=robochicas&show_icons=true&theme=synthwave&count_private=true&hide=prs,contribs"/> 
+   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robochicas&layout=compact&langs_count=6&theme=synthwave"/>
+   <img src=" https://github-readme-stats.vercel.app/api/pin/?username=robochicas&repo=github-readme-stats&theme=synthwave"/>
+<div>    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  
